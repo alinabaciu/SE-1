@@ -7,7 +7,7 @@ Grupa: 1220F
 |--------------|----------------|---------------|
 | Albu Dragos | https://github.com/dragosalbu | |
 | Avram Andrei | https://github.com/andrei9505/SE | https://github.com/andrei9505/ALF |
-| Baciu Alina |https://github.com/alinabaciu||
+| Baciu Alina |https://github.com/alinabaciu/ALF||https://github.com/alinabaciu/SE |
 | Balhis Christelle|https://github.com/ChristelleBalhis/ALF||https://github.com/ChristelleBalhis/SE|
 |Bratu Madalina|https://github.com/maygirl/SE||https://github.com/maygirl/ALF|
 |Brezoaie Robert |https://github.com/robertbrezoaie/ALF||https://github.com/robertbrezoaie/SE|
